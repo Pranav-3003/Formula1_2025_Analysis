@@ -1,2 +1,2 @@
-# Formula1_2025_Analysis
-Formula 1 2025 Data Analysis &amp; Visualization A comprehensive analysis of the Formula 1 2025 season using race and sprint datasets to evaluate driver performance, championship standings, DNFs, and race-by-race trends through advanced data processing and visualizations in Python.
+# Formula 1 2025 Data Analysis &amp; Visualization 
+A comprehensive analytical study of the Formula 1 2025 season using official race and sprint datasets. This project focuses on evaluating driver and constructor performance, championship standings, DNFs, and race-by-race trends through systematic data cleaning, aggregation, and visualization techniques in Python. The analysis highlights performance consistency, competitive progression across the season, and key patterns observed in race outcomes using Pandas, NumPy, and Matplotlib.
